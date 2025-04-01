@@ -89,8 +89,7 @@
 
 ## 📫 Как со мной связаться?
 
-- 📧 Email: `your.email@example.com`
-- 📲 Telegram: [@your_telegram](https://t.me/your_telegram)
-- 🌐 LinkedIn: [Ваш LinkedIn-профиль](https://linkedin.com/in/your-linkedin)
+- 📧 Email: `thegorgerdemirchi@gmail.com`
+- 📲 Telegram: [@soyertom](https://t.me/soyertom)
 
-Всегда рад новым задачам и предложениям!
+Всегда рад новым идеям и предложениям!
