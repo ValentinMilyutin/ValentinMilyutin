@@ -42,7 +42,7 @@ Yandex Educational Technologies, Moscow, Russia
   - Data acquisition, processing, and cleaning  
   - Analysis of Mutual Funds and ETFs (performance, risks, outliers, benchmarking)  
   - Anomaly detection, clustering (supervised similarity, Random Forest methods)  
-  - Quantitative modeling, calculation of risk metrics (VaR, CVaR)
+  - Quantitative modeling, calculation of risk metrics (Sharpe Ratio, Determination coeff, etc)
 
 - **Data Science & Quantitative Analytics**:
   - Predictive modeling and classification  
