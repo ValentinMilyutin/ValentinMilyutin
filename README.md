@@ -61,6 +61,8 @@ Yandex Educational Technologies, Moscow, Russia
 | [**Loading and Preparing Financial Indices Data**](https://github.com/ValentinMilyutin/get-indeces-and-saving-tables) | Historical time-series data collection for market indices (via `yfinance`, `yahooquery` APIs), data cleaning, and structuring for further fund benchmarking analysis. |
 | [**Customer Churn Analysis in Fitness Center**](https://github.com/ValentinMilyutin/fitness-churn-analysis) | Identification of churn factors, development of predictive churn model, and formulation of client retention strategies. |
 | [**Bank Customer Churn Analysis**](https://github.com/ValentinMilyutin/bank-analysis) | Customer classification, churn factor identification, statistical hypothesis testing, and actionable retention recommendations. |
+| **[Smart Money Concept — Order Blocks & FVG](https://github.com/ValentinMilyutin/order-block-and-imbalances-search)** | Detection and confirmation of 1H order blocks and 15m fair value gaps (FVGs), time-price alignment, high-resolution visualizations, export to Excel. Smart Money approach with custom logic for structure, sweep, and engulfing patterns. |
+
 
 ---
 
