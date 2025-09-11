@@ -62,6 +62,8 @@ Yandex Educational Technologies, Moscow, Russia
 | [**Customer Churn Analysis in Fitness Center**](https://github.com/ValentinMilyutin/fitness-churn-analysis) | Identification of churn factors, development of predictive churn model, and formulation of client retention strategies. |
 | [**Bank Customer Churn Analysis**](https://github.com/ValentinMilyutin/bank-analysis) | Customer classification, churn factor identification, statistical hypothesis testing, and actionable retention recommendations. |
 | [**Bullish and Bearish OB Finder**](https://github.com/ValentinMilyutin/Bullish-and-Bearish-OB-Finder-Pine-Script-V6-15-min) | Pine Script v6 project that detects, draws, and continuously updates bullish and bearish order blocks (OBs) on 15-minute charts. Runs without repainting or look-ahead bias. Designed for TradingView and based on strict structural conditions to identify local imbalances. ||
+| [**Daily BTC Algotrading Strategy (2 notebooks)**](https://github.com/ValentinMilyutin/Daily-BTC-algotrading-strategy-research) |After outsized daily moves, BTC shows a short, exploitable post-shock pattern; we detect such shocks and trade that brief window. |
+
 
 
 ---
