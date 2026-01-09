@@ -52,7 +52,7 @@ Yandex Educational Technologies, Moscow, Russia
 
 ---
 
-## Key Data pet Projects
+## Projects
 
 | Project | Description |
 |---------|-------------|
