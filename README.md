@@ -1,5 +1,5 @@
 # Valentin Milyutin  
-**Data Analyst | Quantitative Analyst**  
+**Data Analyst**  
 
 📍 Russia  
 📧 thegorgerdemirchi@gmail.com  
